@@ -1,2 +1,3 @@
 # Sifre Olusturucu-Cozucu
-İlk senemde yazmış olduğum C de Türkçe şifre oluşturma ve aynı metot ile şifreyi çözme uygulaması
+İlk senemde yazmış olduğum C de şifre oluşturma ve aynı metot ile şifreyi çözme uygulaması
+Türkçe
